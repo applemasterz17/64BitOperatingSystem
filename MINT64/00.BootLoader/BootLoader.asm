@@ -38,7 +38,7 @@ START:
 .MESSAGEEND:
     jmp $                           ; 현재 위치에서 무한루프 수행 
 
-MESSAGE1:   db 'MINT64 OS Boot Loader Start !!', 0
+MESSAGE1:   db 'APPLE17 OS Boot Loader Start !!', 0
 
 times 510 - ( $ - $$ )  db  0x00    ; 현재 위치부터 510 까지 0x00 으로 채우기
 db 0x55                             ; 1byte 선언, 0x55 (부트섹터 표기)
