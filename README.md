@@ -1,2 +1,2 @@
-# os-dev
-64-bit operating system development
+# Study 64Bit Operating System Development
+- Book name
