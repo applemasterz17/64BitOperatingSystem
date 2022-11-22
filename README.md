@@ -10,7 +10,7 @@ sudo apt install gcc-multilib
 ```bash
 sudo apt install nasm
 ```
--qemu
+- qemu
 ```bash
 sudo apt install qemu qemu-kvm
 ```
