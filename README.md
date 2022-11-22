@@ -1,2 +1,2 @@
-# Study 64Bit Operating System Development
-- Book name
+## Goal
+- Study 64Bit Operating System Development
